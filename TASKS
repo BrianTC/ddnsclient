@@ -1,0 +1,15 @@
+TO ADD:
+    Handle Failed Checks
+        DNS FAILURE
+        POOR INPUT
+
+    Add more sources as backups 2-3 more? 
+    Add more sources as backups 2-3 more?- DONE
+    
+    Add DNS UPDATE fxnalility 
+
+    CONFIGURE FROM FILE
+
+TO FIX:
+    MAKE MAKEFILE NICER
+
